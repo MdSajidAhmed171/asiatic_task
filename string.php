@@ -7,5 +7,6 @@ print_r($array);
 
 $dream = explode(" ", "Hi, How are you?");
 print_r($dream);
+echo "nice";
 ?>
 
